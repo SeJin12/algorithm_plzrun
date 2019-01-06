@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class dp2011 {
 	static final int MOD = 100_0000;
 	static long count = 0;
-	//TODO : 모르겠다 해석해야 한다.
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String code = sc.nextLine();
