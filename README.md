@@ -1,7 +1,9 @@
 ### 알고리즘 공부
 
 <hr>
+
 [plzrun's algorithm](https://han.gl/4Isid)
+
 <hr/>
 <pre>
 * 입출력
