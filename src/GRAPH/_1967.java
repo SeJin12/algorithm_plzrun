@@ -36,12 +36,10 @@ public class _1967 {
 		// 어떤 정점에서 출발 해도 가장 멀리 있는 지점은 원의 지름에 해당하는 두 정점중에 하나 일 것이다.
 		// 임의의 정점에서 end_point를 구할 수 있지만, 루트노드인 1에서 출발하기로 한다.(다른거 입력해도 됌)
 		dfs(1, 0); // 가장 멀리 있는 정점(end_point) 구하기
-
 		ans = 0;
 		Arrays.fill(visited, false);
 		dfs(end_point, 0);
 		System.out.println(ans);
-
 		br.close();
 	}
 
