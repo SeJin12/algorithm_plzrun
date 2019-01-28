@@ -11,10 +11,10 @@
 
 #
   
-| condition ||
+| 조건  | |
 |-------|--------|
-| greedy choice property | 탐욕스런 선택 조건은 앞의 선택이 이후의 선택에 영향을 주지 않는다. |
-| optiomal substructure | 문제에 대한 최적해가 부분문제에 대해서도 역시 최적해라는 것 |
+|탐욕스런 선택 조건 (greedy choice property)| 탐욕스런 선택 조건은 앞의 선택이 이후의 선택에 영향을 주지 않는다. |
+|최적 부분 구조 조건 (optimal substructure) | 문제에 대한 최적해가 부분문제에 대해서도 역시 최적해라는 것 |
 
 #
 
