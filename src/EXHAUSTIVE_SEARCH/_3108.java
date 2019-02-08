@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 public class _3108 {
 	// ref : https://jaejin89.tistory.com/19
-	//FIXME 해야할 차례
+	//FIXME 분석해야함
 	static int N;
 	static Rec[] map;
 	static boolean[] visited;
